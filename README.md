@@ -42,7 +42,7 @@ todo/
  Install Dependencies
 
 npm install
-
+to run node Server.js
 
 SQL code 
 CREATE DATABASE todo_db;
